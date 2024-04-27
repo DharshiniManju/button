@@ -1,0 +1,16 @@
+html {
+  height: 100%;
+  padding: 0;
+  text-align: center;
+  align-items: center;
+}
+.btn {
+  font-size: 1em;
+  text-align: center;
+  align-items: center;
+  padding: 20px;
+  background-color: rgb(77, 108, 200);
+  border: 20px solid black;
+  margin-top: 250px;
+  border-radius: 50%;
+}
